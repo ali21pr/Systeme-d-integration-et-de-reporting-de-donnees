@@ -1,6 +1,7 @@
 # **Systeme-d-integration-et-de-reporting-de-donnees**
 
-![exo-montee-gcp](https://github.com/ali21pr/Systeme-d-integration-et-de-reporting-de-donnees/assets/116568003/c2f5f311-4108-46ab-9fba-3bf59e1faf98)
+
+![maquette_projet_montee_en_competance](https://github.com/ali21pr/Systeme-d-integration-et-de-reporting-de-donnees/assets/116568003/d6ed967b-2e32-48d7-aeef-ceb059da6641)
 
 **Scénario** : 
 L'utilisateur peut soumettre un fichier sur le bucket en utilisant un script Python.
